@@ -1,0 +1,14 @@
+{
+  "incumbent": 1,
+  "election_year": 2022,
+  "candidate_count": 4,
+  "seats_available": 1,
+  "candidate_to_seat_ratio": 4.0,
+  "municipality": "Toronto",
+  "party": "Independent",
+  "gender": "M",
+  "position": "Councillor",
+  "ward": "1",
+  "province": "ON",
+  "region": "Ontario"
+}
